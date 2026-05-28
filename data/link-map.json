@@ -1,0 +1,33 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/air-quality",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/air-quality"
+    },
+    {
+      "url": "https://www.betterbuylab.com/air-quality/best-air-purifiers-allergies",
+      "anchor": "Better Buy Lab air quality guide",
+      "path": "/air-quality/best-air-purifiers-allergies"
+    },
+    {
+      "url": "https://www.betterbuylab.com/air-quality/best-dehumidifiers-basement",
+      "anchor": "Better Buy Lab air quality guide",
+      "path": "/air-quality/best-dehumidifiers-basement"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/vacuum-cleaning-resource-map",
+      "anchor": "vacuum-cleaning-resource-map"
+    },
+    {
+      "url": "https://github.com/betterbuylab/sleep-mattress-resource-map",
+      "anchor": "sleep-mattress-resource-map"
+    }
+  ]
+}

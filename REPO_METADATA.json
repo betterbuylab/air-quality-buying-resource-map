@@ -1,0 +1,28 @@
+{
+  "repoName": "air-quality-buying-resource-map",
+  "description": "Maps air purifiers, dehumidifiers, allergies, pets, CADR, basement moisture, and filter upkeep.",
+  "homepage": "https://www.betterbuylab.com/air-quality",
+  "topics": [
+    "air-purifier",
+    "dehumidifier",
+    "allergies",
+    "indoor-air",
+    "buying-guides",
+    "product-research",
+    "betterbuylab",
+    "home-health"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": false,
+  "primaryWebsitePages": [
+    "/air-quality",
+    "/air-quality/best-air-purifiers-allergies",
+    "/air-quality/best-dehumidifiers-basement"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources",
+    "vacuum-cleaning-resource-map",
+    "sleep-mattress-resource-map"
+  ],
+  "complianceNotes": "Scoped README links only; no live price language."
+}

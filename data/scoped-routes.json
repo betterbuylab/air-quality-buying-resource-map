@@ -1,0 +1,65 @@
+{
+  "guides": [
+    {
+      "path": "/air-quality",
+      "url": "https://www.betterbuylab.com/air-quality",
+      "pageType": "category"
+    },
+    {
+      "path": "/air-quality/best-air-purifiers-allergies",
+      "url": "https://www.betterbuylab.com/air-quality/best-air-purifiers-allergies",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/air-quality/best-dehumidifiers-basement",
+      "url": "https://www.betterbuylab.com/air-quality/best-dehumidifiers-basement",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/corsi-rosenthal-box",
+      "url": "https://www.betterbuylab.com/reviews/corsi-rosenthal-box"
+    },
+    {
+      "path": "/reviews/coway-airmega-200m",
+      "url": "https://www.betterbuylab.com/reviews/coway-airmega-200m"
+    },
+    {
+      "path": "/reviews/ge-adhl35la",
+      "url": "https://www.betterbuylab.com/reviews/ge-adhl35la"
+    },
+    {
+      "path": "/reviews/ge-apyr50lc",
+      "url": "https://www.betterbuylab.com/reviews/ge-apyr50lc"
+    },
+    {
+      "path": "/reviews/levoit-core-200s",
+      "url": "https://www.betterbuylab.com/reviews/levoit-core-200s"
+    },
+    {
+      "path": "/reviews/levoit-core-600s",
+      "url": "https://www.betterbuylab.com/reviews/levoit-core-600s"
+    },
+    {
+      "path": "/reviews/midea-mad35s1qwt",
+      "url": "https://www.betterbuylab.com/reviews/midea-mad35s1qwt"
+    },
+    {
+      "path": "/reviews/mila-air-3",
+      "url": "https://www.betterbuylab.com/reviews/mila-air-3"
+    },
+    {
+      "path": "/reviews/nuwave-oxypure",
+      "url": "https://www.betterbuylab.com/reviews/nuwave-oxypure"
+    },
+    {
+      "path": "/reviews/probreeze-pb-03",
+      "url": "https://www.betterbuylab.com/reviews/probreeze-pb-03"
+    },
+    {
+      "path": "/reviews/waykar-pd160b",
+      "url": "https://www.betterbuylab.com/reviews/waykar-pd160b"
+    }
+  ]
+}
